@@ -1,0 +1,700 @@
+1. A wire is stretched to double its length.The stress produced is 
+
+A. equals to Y
+B. Less than Y
+C. greater than Y
+D. none
+
+2. Rms velocity of gas molecule is directly proportional to 
+
+A.  Temperature
+B. Square root of temperature
+C. Pressure
+D. Square root of the pressure.
+
+3. A car of mass 'm'moving with speed 'v' is stopped at a distance 'x' by the friction between the tyres and the road. If K.E. of the car is doubled, stopping distance will be
+
+A.  8x
+B. 4x
+C. 2x
+D. x
+
+4. Ignition occurs in petrol engine from
+
+A.  compression of air at high temperature
+B. compression of fuel at high temperature
+C. by spark
+D. none
+
+5. Rain drops of equal size fall in air with terminal velocity of  2 cm/s. A drop formed by coalescing 27 drops obtain a terminal velocity of
+
+A.  54 cm/s
+B. 108 cm/s
+C. 18 cm/s
+D. 6 cm/s
+
+6. The instrument used for measuring electric current is
+
+A.  ammeter
+B. voltmeter
+C. potentiometer
+D. wattmeter
+
+7. The collision in which the relative velocity after collision is zero is
+
+A.  perfectly elastic collision
+B. perfectly inelastic collision
+C. semi elastic collision
+D. may be elastic or inelastic
+
+8. The diesel engines are also known as ..................... Engine
+
+A.  compression ignition
+B. spark ignition
+C. dual ignition
+D. otto ignition
+
+9. A fuse wire of radius 0.2 mm blows when current flowing is 5A. Value of current for another fuse wire of same material of radius 0.3 mm to blow is
+
+A.  5 A
+B. 9.2 A
+C. 12.4 A
+D. 20 A
+
+10. When a woolen sweater worm over a nylon shirt is removed, sparking is observed due to
+
+A.  Static electricity
+B. Current electricity
+C. None
+D. Both
+
+11. Two bulbs A and B are placed respectively at 20cms and 30cms on opposite sides of an oily paper screen.The two sides of the screen are equally intense.The ratio of power of the bulb A to that of B will be 
+
+A. 4:9
+B. 9:4
+C. 2:3
+D. 3:2
+
+12. The frequency of a fork A is 3% more than the frequency of a standard fork whereas the frequency of fork B is 3% less. If fork A and B produce 6 beats per second the frequncy of standard fork will be
+
+A.  100 Hz
+B. 106 Hz
+C. 103 Hz
+D. 112 Hz
+
+13. A square frame of side L is dipped in a liquid soap.When it is taken out of the liquid a soap film is formed on it . If the surface tension of soap is T, then the force acting on frame is,
+
+A.  2TL
+B. 4TL
+C. 8TL
+D. 10TL
+
+14. A spring is in simple harmonic motion.If the mass of the pendulum is increased by 4 times the time period of the pendulum will 
+
+A.  increases by 4 times
+B. decreases by 4 times
+C. increases by 2 times
+D. increases by 1/2 times
+
+15. The image, of a virtual object, produced by a convex mirror is
+
+A.  inverted
+B. diminished
+C. virtual
+D. real
+
+16. Sound energy is converted into electrical energy in
+
+A.  Loudspeaker
+B. microphone
+C. sonometer
+D. radio
+
+17. With the rise in temperature, surface tension
+
+A.  Increases
+B. Decreases
+C. Remains the same
+D. Becomes zero
+
+18. A horse pulls a wagon. The force that horse gets from is :
+
+A.  It exerts on the wagon
+B. The wagon exerts on him
+C. It exerts on the ground
+D. The ground exerts on him
+
+19. Fraunhoffer's spectrum of sun is :
+
+A.  Band absorption spectrum in chromosphere
+B. Line absorption spectrum in chromosphere
+C. Emission spectrum
+D. Band emission spectrum
+
+20. Two gaseous molecule of mass M1 and M2 has mean square speed as:
+
+A. √M1/M2
+B. √M2/M1
+C. M2/M1
+D. M1/M2
+
+21. N - atom of sample disintegrate in K α - particle/sec. Then half life of sample is
+
+A.  N/K
+B. 0.693 N/K
+C. 0.693 K/N
+D. K/N
+
+22. A sodium surface is illuminated with light having a wave length of 300nm. The work function for sodium metal is 2.46eV. The maximum kinetic energy of the ejected photoelectrons is
+
+A.  4.13eV
+B. 2.4ev
+C. 1.67ev
+D. 6.59eV
+
+23. If kinetic energy of a particle is increased by four times the De-Brogile wavelength becomes 
+
+A.  2 times
+B. 1/2 times
+C. 1/√2 times
+D. √2 times
+
+24. If the Earth suddenly looses quality to attract things
+
+A.  The mass will vanish
+B. The weight will vanish
+C. Both weight and mass will vanish
+D. None of the above
+
+25. An alpha particle makes a complete revolution in circular path of radius 0.8m in 2 seconds.The magnetic field induction in Tesla at the centre of the circle will be 
+
+A.  0.5∗10^(−19)μo
+B. 0.3∗10^(−19)μo
+C. 1.0∗10^(−19)μo
+D. 0.2∗10^(−19)μo
+
+26. When a rod of length 2m carrying current 10 A is placed perpendicular to magnetic flux density of strength of 0.15 T. What is the force experienced by it ?
+
+A.  2 N
+B. 0.3 N
+C. 1 N
+D. 3 N
+
+27. A wire resistance 16 ohm is bent into circular form. Then equivalent resistance between two points of any diameter is 
+
+A.  8Ω
+B. 32Ω
+C. 16Ω
+D. 4Ω
+
+28. Two metal strips that constitude a thermostat must necessarily differ in their
+
+A.  mass
+B. length
+C. resistivity
+D. coefficient of linear expansion
+
+29. On penetrating a uniform charged sphere, the electrical field strength E 
+
+A.  remains unchanged
+B. decreases
+C. increases
+D. is zero at all points
+
+30. The colors of thin films result due to
+
+A.  interference of light
+B. dispersion of light
+C. scattering of light
+D. selective absorption of light
+
+31. 8 small drop of capacitance and radius 'r' combines to form a big drop of radius 'R' then the capacitance of big drop will be
+
+A.  2 C
+B. 4 C
+C. 8 C
+D. 16 C
+
+32. Two sound waves of equal intensity I produce beats. The maximum intensity of sound produced in beats will be
+
+A. I
+B. 2 I
+C. 2√2 I
+D. 4 I
+
+33. Which is scalar quantity?
+
+A.  temperature gradient
+B. intensity of magnetization
+C. intensity of radiation
+D. current density
+
+34. In Young's double slit experiment, 12 fringes are obtained in a certain fragment of the screen when light of wavelength 600 nm is used. If the wave length of light is changed t0 400 nm, number of fringes obtained in the same segment of the screen will be:
+
+A.  12
+B. 18
+C. 24
+D. 30
+
+35. A man heard the thunder 6 seconds later he saw a lightening. The temperature of air is 27oC. How far was the flash of light from the man? ( Velocity of sound in air at 0oC is 332 m/s )
+
+A.  1822 m
+B. 2332 m
+C. 2088 m
+D. 2445 m
+
+36. A wooden block of volume 1000cc is suspended from a spring balance. It's weight is 12N in air. It is suspended in water such that half of the block is below the surface of water. Reading of spring balance will be
+
+A.  10N
+B. 9N
+C. 8N
+D. 7N
+
+37. An X-ray tube is operated at 20kV.The maximum speed of electrons striking the anticathode wil be 
+
+A. 4.2∗(10^7) m/s
+B. 8.4∗(10^7) m/s
+C. 8.4∗(10^3) m/s
+D. 4.8∗(10^7) m/s
+
+38. Displacement of particle with respect to time t is x = (ao)+2(a1)t+(a2)(t^2).The acceleration is 
+
+A.  ao
+B. a1
+C. a2
+D. 2(a2)
+
+39. Radius of electron moving in a magnetic field in a perpendicular direction is proportional to:
+
+A.  Momentum
+B. Magnetic field
+C. Charge of electron
+D. Potential
+
+40. A body is projected with a velocity equal to twice the escape velocity(ve) from the earth. The velocity of the body in free space will be
+
+A.  ve
+B. 1.5ve
+C. √2ve
+D. √3ve
+
+41. A diffraction pattern is obtained using a beam of red light, What happen if the red light is replaced by blue light?
+
+A.  no change
+B. diffraction bands become broader and recorded
+C. bands become broader and further apart
+D. bands may disappear
+
+42. The objective of terrestrial telescope has a focal length of 50 cm and its magnifying power is 10 when adjusted for parallel rays. If the erecting lens has a focal length 15 cm, the total length of such a telescope is
+
+A.  65 cm
+B. 75 cm
+C. 95 cm
+D. 115 cm
+
+43. A ray of light is incident at angle of incidence ‘i’ on one surface of a prism of small refracting angle ‘A’ and emerges normally from the opposite surface. If the R.I. of the material of the prism is μ; the angle of incidence ‘i’ is equal to
+
+A.  A/μ
+B. A/(2μ)
+C. μA
+D. μ(A/2)
+
+44. An air parallel plate capacitor has capacity C. When capacity and distance between the plate is double and immersed in liquid then dielectric constant of liquid is 
+
+A.  1
+B. 2
+C. 3
+D. 4
+
+45. A refrigerator has to transfer an average of 263J of heat per second from -10oC to 25oC. The average power consumed by the refrigerator is :-
+
+A.  10W
+B. 20W
+C. 35W
+D. 40W
+
+
+46. The instrument used to measure energy is:
+
+A.  currentmeter
+B. voltmeter
+C. watt-hour meter
+D. ammeter
+
+47. The pressure at the end of compression in petrol engine compared to that of diesel engine would be
+
+A.  higher
+B. lower
+C. same
+D. none
+
+48. In an adiabatic process 
+
+A.  Pressure is constant
+B. the gas is expanded isothermally
+C. there is perfect heat insulation
+D. system exchanges heat with surrounding
+
+49. When a beam of light travelling in air enters a glass block, it ordinarily undergoes change in :
+
+A.  speed only
+B. frequency only
+C. wave length
+D. speed and wave length both
+50. A parallel beam of light of 6000 Ao is incident normally on a slit of width 0.2 mm. A diffraction pattern is observed on a screen which is placed at a focal plane of convex lens of focal length 50 cm. Lens is close to slit then distance between minima on both side of central maxima will be
+
+A. 1 mm
+B. 2 mm
+C. 3 mm
+D. 4 mm
+
+51. Heating of a current carrying conductor is due to
+
+A.  loss of kinetic energy by atoms
+B. loss of kinetic energy by electrons
+C. attraction between electrons
+D. repulsion between protons and electrons
+
+52. Parallel circuit is
+
+A.  voltage divider circuit
+B. current divider circuit
+C. charge divider circuit
+D. all of theses
+
+53. If the earth is assumed to be a homogeneous sphere and if it is reduced to its half size, the length of a day will be 
+
+A.  48 hrs
+B. 24 hrs
+C. 12 hrs
+D. 6 hrs
+
+54. The sound travels with speed 300 m/s in string. Then find the distance between two successive nodes. If frequency is 1000 Hz.
+
+A.  20 cm
+B. 30 cm
+C. 15 cm
+D. 45 cm
+
+55. The De-Brogile wavelength of electron is 0.01A. The energy of the electron in eV 
+
+A.  1
+B. 10
+C. 100
+D. 2.40∗10^(−15)
+
+56. When a thin bar magnet is cut in length into two  equal halves and joined one above another facing same pole together, the final time period of magnet is equal to: (if initial time period of magnet = T)
+
+A.  T
+B. T/2
+C. T/4
+D. 2T
+
+57. A galvanometer with internal resistance 5Ω can sustain a maximum current 25mA.The shunt required for maximum current 10A is
+
+A.  12.5Ω
+B. 0.12Ω
+C. 0.012Ω
+D. 1.2Ω
+
+58. When an elastic material with Young's modulus Y is subjected to stretching stress S,the elastic energy stored per unit volume of material is  
+
+A.  YS/2
+B. (S^2)/(2Y)
+C. (S^2)/(Y/2)
+D. S/(2Y)
+
+59. At what height from earth, g becomes g/2 ?
+
+A.  R/2
+B. 0.414 R
+C. 0.7 R
+D. R
+
+60. Ball A attached to one end of rigid weightless rod , while an identical ball  B is attached to the center of the road. Each ball has a mass 0.5 kg and the length of each half of the rod is 0.4 m. This arrangement is held by an empty end is whirled around in a horizontal circle at a constant rate , so each ball is in uniform circular motion . Ball A travels at a constant speed of 4 m/s. The tension on the left of the rod is :
+
+A. 20 N
+B. 15 N
+C. 10 N
+D. 5 N
+
+61. If m and r are respectively the mass of electron and radius of the orbit in which the electron revolves about the nucleus.The moment of inertia of electron will be
+
+A.  mr2
+B. (1/2)∗mr2
+C. (2/5)∗mr2
+D. (2/3)∗mr2
+
+62. A projectile thrown with a speed v at an angle θ has a range R on the surface of earth. For same v and θ, its range on the surface of moon will be .. ?
+
+A.  R/6
+B. 6R
+C. R/36
+D. 36R
+
+63. If the absolute temperature of a radiating body is suddenly halved, the radiating power will reduce approximately by
+
+A.  25%
+B. 12.5%
+C. 6.25%
+D. 3.12%
+
+64. 175 calories of heat are required to raise the temperature of 5mole of an ideal gas at constant pressure from 20o C to 25oC.The amount of heat required to raise the temperature of same gas from 20oC to 25oC constant volume will be
+
+A.  100cal
+B. 125cal
+C. 150cal
+D. 175cal
+
+65. When a 20V battery is connected across an unknown resistor there is a current of 50 mA in the circuit. Find the value of the resistance of the resister:
+
+A.  2500 Ω
+B. 400 Ω
+C. 0.4 Ω
+D. none of these
+
+66. Which of the following statement is not true, regarding the electrical set-up for the verification of Ohm’s law:
+
+A.  The voltmeter is connected in parallel with the known resistance
+B. The ammeter is connected in series circuit
+C. The rheostat can only increase the resistance in electric circuit
+D. The single key is used to switch on/off the electric circuit
+
+67. Flux invloved in the emf equation of a transformer has
+
+A.  RMS value
+B. average value
+C. Total value
+D. maximum value
+
+68. In parallel combination the resistance decreases due to increase in
+
+A.  area of cross section
+B. length
+C. both a and b
+D. none of the above
+
+69. which of the following is renewable energy?
+
+A.  petroleum
+B. bioethanol
+C. nuclear
+D. none
+
+70. The compression ratio for petrol engine varies from
+
+A.  25 - 40
+B. 10 - 15
+C. 6 - 10
+D. 15 - 25
+
+71. The power available at the shaft of an IC engine is known as
+
+A.  Brake horse power
+B. Indicated horse power
+C. Frictional horse power
+D. none of above
+
+72. In vertically placed traffic light signals the order of signal from top to down is
+
+A.  red-green-amber
+B. green-amber-red
+C. red-amber-green
+D. amber-green-red
+
+73. A diffraction pattern is obtained using a beam of red light, What happen if the red light is replaced by blue light?
+
+A.  no change
+B. diffraction bands become broader and recorded
+C. bands become broader and further apart
+D. bands may disappear
+
+74. The fly wheel used in two stroke engine as compound to four stroke engine is
+
+A.  heavy in weight
+B. same in weight
+C. light in weight
+D. none
+
+75. When an external resistance R is connected to a cell of internal resistance r, the maximum current flows in the external resistance when
+
+A.  R<r
+B. R>r
+C. R = r
+D. any value of R
+
+76. Among which of the following resistance does not depend..........
+
+A.  length of conductor
+B. area of cross-section
+C. temperature
+D. density
+
+77. The objective of terrestrial telescope has a focal length of 50 cm and its magnifying power is 10 when adjusted for parallel rays. If the erecting lens has a focal length 15 cm, the total length of such a telescope is
+
+A.  65 cm
+B. 75 cm
+C. 95 cm
+D. 115 cm
+
+78. A ray of light is incident at angle of incidence ‘i’ on one surface of a prism of small refracting angle ‘A’ and emerges normally from the opposite surface. If the R.I. of the material of the prism is μ; the angle of incidence ‘i’ is equal to
+
+A.  A/μ
+B. A/(2μ)
+C. μA
+D. μ(A/2)
+
+79. One Faraday is equal to
+
+A.  69500 coulombs
+B. 96.5 coulombs
+C. 96500 coulombs
+D. none
+
+80. A body of moment of inertia of 3kg(m^2) rotating with an angular speed of 2 rad/sec has the same kinetic energy as a mass of 12kg moving with speed of 
+
+A.  2 m/s
+B. 1 m/s
+C. 4 m/s
+D. 8 m/s
+
+81. Some quantity of tap water is placed in an open pan and allowed to evaporate. After some time the temperature of water.
+
+A.  decreases slightly
+B. increases slightly
+C. remain same
+D. increases considerably
+
+82. A sample of an ideal gas occupies a volume of ‘V’ at a pressure ‘P’ and absolute temp T. The mass of each molecule is m, then density of gas is
+
+A.  mKT
+B. p/KT
+C. p/KTV
+D. pm/KT
+
+83. Superconductors exhibit
+
+A.  Paramagnetism
+B. Diamagnetism
+C. Ferromagnetism
+D. Ferrimagnetism
+
+84. A disc of radius 10 cm is rotating in magnetic field of flux density 0.4 T acting along axis. Emf of 0.08 V is developed between rims & centre of disc, then the angular frequency of disc is
+
+A. 20 /sec
+B. 40 /sec
+C. 60 /sec
+D. 80 /sec
+
+85. Voltmeter measures
+
+A.  rate of flow of charge per sec
+B. amount of energy consumed in the corresponding load
+C. amount of voltage drop across the load
+D. amount of power dissipated in the corresponding load
+
+86. The vertical part of transformer is called
+
+A.  yoke
+B. limb
+C. insulating paper
+D. turn of coil
+
+87. In parallel combination, total electrical power
+
+A.  increases
+B. decreases
+C. remains same despite of adding resistance
+D. may both increase or decrease
+
+88. A battery of 12V is connected in series with resisters of 0.2 ohm , 0.3 ohm,0.4 ohm,0.5 ohm and 12 ohm. How much current would flow through the 0.3 ohm resister :
+
+A. 0.895 A
+B. 1.11 A
+C. 0.5 A
+D. none of these
+
+89. A transformer rated upto 200 KVA is
+
+A.  Power Transformer
+B. Distribution Transformer
+C. Isolation Transformer
+D. none
+
+90. A sphere of radius R is charged with charge Q. A small test charge qo is place at a distance x from the surface of sphere. The force experienced by the test charge is proportional to
+
+A.  1/(R+x)^2
+B. (R + x)^2
+C. (R−x)^2
+D. 1/(R−x)^2
+
+91. How will be the image formed by a convex lens if the upper half of the lens is wrapped in black paper
+
+A.  No effect
+B. Brightness of image will be reduced
+C. Upper half of the image will be absent
+D. Size of the image is reduced to half
+
+92. An astronomical telescope has a magnifying power 10.The focal length of eye piece is 20 cm.The focal length of the objective is
+
+A.  2cm
+B. 200cm
+C. 1/200cm
+D. 0.5cm
+
+93. The kinetic energy of electrons released in photoelectric emission is dependent upon 
+
+A.  frequency of incident light
+B. Intensity of incident light
+C. Nature of cathode surface
+D. Work function
+
+94. The phenomenon of acquiring temporary electrification under the influence of a charged body is called
+
+A.  magnetic induction
+B. electrical induction
+C. capacitance
+D. electrolysis
+
+95. A carnot engine takes in 300 kcal of heat from a reservoir at 627oC and gives it to a sink at 27oC . The work done by the engine is 
+
+A.  4.2∗(10^6)J
+B. 8.4∗(10^6)J
+C. 16.8∗(10^6)J
+D. 0
+
+96. A whistle giving out 450 Hz approaches a stationary observer at a speed of 33 m/s. The frequency heard by the observer in Hz is
+
+A.  409
+B. 517
+C. 429
+D. 500
+
+97. Consider two simple pendulums, A and B having identical bobs and same time period of oscillation T1. If the bob of A is half filled with mercury and that of B is half filled with water, then
+
+A.  Pendulum A will have longer time period of oscillation than that of B
+B. Pendulum B will have longer time period of oscillation than that of A.
+C. Pendulum A and Pendulum B will have the same time period of Oscillation T1.
+D. none of the above.
+
+98. A a.c. voltage E = 200√2 sin 400t V is connected across a circuit containing a capacitior of 1μF. What is the current flow is the circuit ?
+
+A.  10 mA
+B. 20 mA
+C. 40 mA
+D. 80 mA
+
+99. A circle has resistance 20Ω. Its arc subtends 30 degree angle at its centre. what will be equivalent resistance across arc
+
+A.  36/55 Ω
+B. 36/46 Ω
+C. 55/36 Ω
+D. 46/36 Ω
+
+100. The power of a water pump is 3 kilowatt.The volume of water it can raise in one minute to a height of 10m ,[assuming that g = 10m/(s^2)] is ?
+
+A. 2 m^3
+B. 2.4 m^3
+C. 4 m^3
+D. 1.8 m^3
+
